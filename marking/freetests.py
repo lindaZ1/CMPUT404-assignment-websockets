@@ -110,6 +110,7 @@ if __name__ == '__main__':
         gevent.joinall(greenlets)
         ws2.close()
         gws2.join(timeout=1)
+
         # here's our final test
         print "%s %s" % (ws.count , ws2.count)
         assert ws.count == calls, ("Expected Responses were given! %d %d" % (ws.count, calls))

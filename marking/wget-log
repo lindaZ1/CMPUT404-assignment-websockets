@@ -1,0 +1,81 @@
+/usr/bin/wget: Scheme missing.
+--2016-11-13 15:55:11--  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 15:57:19--  (try: 2)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 15:59:29--  (try: 3)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:01:39--  (try: 4)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:03:50--  (try: 5)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:06:03--  (try: 6)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:08:16--  (try: 7)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:10:30--  (try: 8)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:12:45--  (try: 9)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:15:02--  (try:10)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:17:19--  (try:11)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:19:36--  (try:12)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:21:53--  (try:13)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:24:10--  (try:14)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:26:28--  (try:15)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:28:45--  (try:16)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:31:02--  (try:17)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:33:19--  (try:18)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:35:37--  (try:19)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Retrying.
+
+--2016-11-13 16:37:54--  (try:20)  http://172.17.42.1:8118/freetests.py
+Connecting to 172.17.42.1:8118... failed: Connection timed out.
+Giving up.
+
